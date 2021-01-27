@@ -22,4 +22,7 @@ MKDIR: is a command to create new directories
 ## MV
 MV: is a command to move file from one directory to another
 
+## RM
+RM: is a command to remove files or directories
+
 
