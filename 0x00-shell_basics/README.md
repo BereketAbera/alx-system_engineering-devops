@@ -28,4 +28,7 @@ RM: is a command to remove files or directories
 ## RM -r
 RM -r: is a command to remove directories
 
+## CD -
+CD -: is a command to go to the previous directory
+
 
