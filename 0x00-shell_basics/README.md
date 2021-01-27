@@ -15,3 +15,8 @@ LS -la: is a command to print all contents including hidden files with detail
 
 ## LS -lan
 LS -lan: is a command to print all contents including hidden files with group and user ids
+
+## MKDIR
+MKDIR: is a command to create new directories
+
+
