@@ -34,4 +34,7 @@ CD -: is a command to go to the previous directory
 ## LS -l . .. /boot
 Will display all files on the given directories
 
+## FILE
+FILE: is a comand to display the format of the given file
+
 
