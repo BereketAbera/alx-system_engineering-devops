@@ -19,4 +19,7 @@ LS -lan: is a command to print all contents including hidden files with group an
 ## MKDIR
 MKDIR: is a command to create new directories
 
+## MV
+MV: is a command to move file from one directory to another
+
 
