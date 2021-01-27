@@ -25,4 +25,7 @@ MV: is a command to move file from one directory to another
 ## RM
 RM: is a command to remove files or directories
 
+## RM -r
+RM -r: is a command to remove directories
+
 
