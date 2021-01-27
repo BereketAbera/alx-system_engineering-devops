@@ -31,4 +31,7 @@ RM -r: is a command to remove directories
 ## CD -
 CD -: is a command to go to the previous directory
 
+## LS -l . .. /boot
+Will display all files on the given directories
+
 
