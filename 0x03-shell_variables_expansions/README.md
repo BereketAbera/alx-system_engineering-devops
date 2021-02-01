@@ -12,12 +12,16 @@ Is a global variable that contains all the directories where applications are lo
 ## printenv
 Used to print all global varibales
 
-## printenv && set && declare -F
+## set
 Used to list all local and global variables and functions
 
 ## local variables
-`declare varname=value`
+`varname=value`
 Used to create local variables
+
+## global variables
+`declare varname=value`
+Used to declare a global variable
 
 ## $(())
 Is used to perform arthimetic operations
