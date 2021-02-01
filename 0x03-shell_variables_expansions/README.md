@@ -23,3 +23,9 @@ Used to create local variables
 Is used to perform arthimetic operations
 We can use variables inside arthimetic operations
 
+## printf
+Prints content to the screen, it can convert from decimal to hex and so much more
+
+## {a..z}
+Brace expansion prints range of items in the list
+
