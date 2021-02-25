@@ -1,5 +1,5 @@
 ## PWD
-PWD: is a command to print the abslute path of the current directory
+PWD: is a command to print the absolute path of the current directory
 
 ## LS
 LS: is a command to print all the contents of the current directory
